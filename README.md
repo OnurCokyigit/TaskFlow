@@ -27,7 +27,3 @@ bir görev ve proje yönetim masaüstü uygulaması.
 - Commit sistemi ile ilerleme takibi
 - Departman ve takım yönetimi
 - Dashboard ile istatistikler
-
-## ⚙️ Kurulum
-
-1. Repoyu klonla:

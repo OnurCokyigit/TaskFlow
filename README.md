@@ -27,3 +27,14 @@ bir görev ve proje yönetim masaüstü uygulaması.
 - Commit sistemi ile ilerleme takibi
 - Departman ve takım yönetimi
 - Dashboard ile istatistikler
+
+## ⚙️ Kurulum
+
+1. Repoyu klonla: git clone https://github.com/kullaniciadi/TaskFlow.git
+2. Visual Studio 2022 ile aç
+3. NuGet paketlerini yükle
+4. F5 ile çalıştır
+
+## 🔑 Varsayılan Giriş
+Kullanıcı adı : admin
+Şifre         : admin123
